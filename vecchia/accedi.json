@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "username": "Simone Scaramagli",
+            "password": "Prova2023"
+        },
+        {
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "username": "Alice Bianchi",
+            "password": "password123"
+        },
+        {
+            "username": "Mario Rossi",
+            "password": "qwerty456"
+        }
+    ]
+}

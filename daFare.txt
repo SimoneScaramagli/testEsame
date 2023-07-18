@@ -1,0 +1,4 @@
+da fare: 
+stampa pdf
+elenco anomalie giacenze 
+sistemare estetica 
